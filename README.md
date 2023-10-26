@@ -39,7 +39,7 @@ Information Communication Engineering (17. 03 ~ 24. 02)
 
 ## Projects
 
-#### 🗳️ 종합설계 프로젝트 (23. 08 ~ ing) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/Inha-ICE-Capstone">🔗</a>
+#### 🗳️ 종합설계 프로젝트 (23. 08 ~ ing) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/Inha-ICE-Capstone/capstone-design-BE">🔗</a>
 블록체인과 강화학습을 활용한 여론조사 플랫폼 </br>
 as BE Developer </br>
 
