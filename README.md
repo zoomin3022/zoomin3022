@@ -49,4 +49,6 @@ as BE Developer </br>
 
 #### 🏦 미니 프로젝트 (23. 02 ~ 23. 02) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/FastcampusMini/mini-project">🔗</a>
 쇼핑몰 컨셉의 핀테크 미니 프로젝트 </br>
-as BE Developer </br> 
+as BE Developer 
+</br></br> 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zoomin3022&show_icons=true&theme=default)
