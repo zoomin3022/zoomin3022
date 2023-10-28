@@ -43,7 +43,7 @@ Information Communication Engineering (17. 03 ~ 24. 02)
 블록체인과 강화학습을 활용한 여론조사 플랫폼 </br>
 as BE Developer </br>
 
-#### ✈️ Go-Together (23. 06 ~ ing) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/KDT3-Final-6/final-project-BE">🔗</a>
+#### ✈️ Go-Together (23. 04 ~ 23. 05) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/KDT3-Final-6/final-project-BE">🔗</a>
 여행 사이트 고 투게더 리뉴얼 </br>
 as BE Developer </br>
 
