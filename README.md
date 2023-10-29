@@ -1,8 +1,9 @@
 <div align=center>
 <h1>WOOMIN JOO</h1>
+<strong>끊임없이 배우고자 하는 개발자</strong><br>
 🎓 INHA Univ. 🎓 </br>
 Information Communication Engineering (17. 03 ~ 24. 02) 
-</br></br>
+</br>
 
 ## Skills
 😃😃😃 : 프로젝트에 적용해보고 계속 사용 중이며 자신이 있음
@@ -34,7 +35,7 @@ Information Communication Engineering (17. 03 ~ 24. 02)
 </br>
 <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=mybatisp&logoColor=white"/>
 
-</br></br>
+</br>
 
 
 ## Projects
@@ -50,5 +51,11 @@ as BE Developer </br>
 #### 🏦 미니 프로젝트 (23. 02 ~ 23. 02) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/FastcampusMini/mini-project">🔗</a>
 쇼핑몰 컨셉의 핀테크 미니 프로젝트 </br>
 as BE Developer 
-</br></br> 
+</br> 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zoomin3022&show_icons=true&theme=default)
+
+</br>
+<h2 align='center'><i>💬 Contacts</i></h2>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://zoomin99.tistory.com/)](https://zoomin99.tistory.com/)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jjwm0128@naver.com)](mailto:jjwm0128@naver.com)
