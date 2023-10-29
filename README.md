@@ -54,7 +54,6 @@ as BE Developer
 </br> 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zoomin3022&show_icons=true&theme=default)
 
-</br>
 <h2 align='center'><i>💬 Contacts</i></h2>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://zoomin99.tistory.com/)](https://zoomin99.tistory.com/)
