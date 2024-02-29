@@ -6,7 +6,7 @@ Information Communication Engineering (17. 03 ~ 24. 02)
 
 ## Skills
 
-### 백엔드
+### BACKEND
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=JPA&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Querydsl-2E64FE?style=flat-square&logo=Querydsl&logoColor=white"/>
 
