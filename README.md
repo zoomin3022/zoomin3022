@@ -46,5 +46,5 @@ as BE Developer
 
 <h2 align='center'><i>💬 Contacts</i></h2>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://zoomin99.tistory.com/)](https://zoomin99.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Velog&link=https://velog.io/@zoomin3022/posts)](https://velog.io/@zoomin3022/posts)
 [![Naver Badge](https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jjwm0128@naver.com)](mailto:jjwm0128@naver.com)
