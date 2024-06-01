@@ -26,13 +26,17 @@ Information Communication Engineering (17. 03 ~ 24. 02)
 
 ## Projects
 
+#### 🏢 Offispace (24. 05 ~ ing) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/4bujak-4bujak/backend">🔗</a>
+공유 오피스 플랫폼 </br>
+as BE Leader </br>
+
 #### 🗳️ 종합설계 프로젝트 (23. 08 ~ 24. 01) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/Inha-ICE-Capstone/capstone-design-BE">🔗</a>
 블록체인과 강화학습을 활용한 여론조사 플랫폼 </br>
 as BE Developer </br>
 
 #### ✈️ Go-Together (23. 04 ~ 23. 05) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/KDT3-Final-6/final-project-BE">🔗</a>
 여행 사이트 고 투게더 리뉴얼 </br>
-as BE Developer </br>
+as BE Leader </br>
 
 #### 💸 My-Msa-Pay (24. 01 ~ ing) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/zoomin3022/my-MSA-pay">🔗</a>
 MSA로 설계한 간단한 페이 서비스 </br>
