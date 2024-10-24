@@ -27,7 +27,7 @@ Information Communication Engineering (17. 03 ~ 24. 02)
 ## Projects
 
 #### 🌟 FANMIX (24. 08 ~ ing) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/FANMIX-Works/FANMIX-BE">🔗</a>
-인플루언서 검색 및 평가 플랫폼 </br>
+인플루언서 평가 및 탐색 플랫폼 </br>
 as BE Developer </br>
 
 #### 🏢 Offispace (24. 05 ~ 24. 07) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/4bujak-4bujak/backend">🔗</a>
